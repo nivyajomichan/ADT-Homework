@@ -1,0 +1,501 @@
+,Color,VehicleModel,VehicleDesc,ModelYear,VehicleType,DateStolen,Location
+0,Silver,Trailer,BST2021D,2021,Trailer,5/11/2021,Waitemata
+1,Silver,Trailer,OUTBACK BOATS FT470,2021,Boat Trailer,13/12/2021,Eastern
+2,Silver,Trailer,ASD JETSKI,2021,Boat Trailer,13/02/2022,Auckland City
+3,Silver,Trailer,MSC 7X4,2021,Trailer,13/11/2021,Central
+4,Silver,Trailer,D-MAX 8X5,2018,Trailer,10/01/2022,Waitemata
+5,Black,Yamaha,YZF-R6T,2005,Roadbike,31/12/2021,Counties/Manukau
+6,Silver,Trailer,CAAR TRANSPORTER,2021,Trailer,12/11/2021,Canterbury
+7,Silver,Trailer,BOAT,2001,Boat Trailer,22/02/2022,Wellington
+8,Silver,Briford,"7X4'6"" 1000KG",2021,Trailer,25/02/2022,Southern
+9,Silver,Briford,8X4 TANDEM,2020,Trailer,3/01/2022,Canterbury
+10,Silver,Trailer,HOMEBUILT,2018,Trailer,15/10/2021,Central
+11,Silver,Factory Built,BRENT SMITH TRAILERS,2018,Trailer,28/02/2022,Waitemata
+12,Black,Vespa,ET2,2004,Moped,19/12/2021,Auckland City
+13,Blue,Honda,TODAY,2007,Moped,23/01/2022,Auckland City
+14,Black,Suzuki,DL650,2007,Roadbike,28/02/2022,Northland
+15,Silver,Trailer,JOBMATE,2021,Trailer,8/02/2022,Wellington
+16,Silver,Trailer,BSTB85B,2021,Trailer,10/10/2021,Auckland City
+17,White,Trailer,BOAT,2004,Boat Trailer,7/10/2021,Bay of Plenty
+18,White,Trailer,DOMESTIC TRAILER,2014,Trailer,24/02/2022,Bay of Plenty
+19,Silver,Trailer,APS SEADOO,2018,Boat Trailer,8/11/2021,Canterbury
+20,Silver,Triumph,THUNDERBIRD,2002,Roadbike,11/02/2022,Northland
+21,Silver,Factory Built,BRENT SMITH TRAILERS,2000,Trailer,22/11/2021,Bay of Plenty
+22,Silver,Trailer,LOCAL,2015,Trailer,27/01/2022,Canterbury
+23,Silver,Trailer,CT DIG 25,2021,Trailer - Heavy,12/11/2021,Waitemata
+24,Silver,Trailer,CHOOKS 2.4X1.6 TRANS,2018,Trailer,8/10/2021,Central
+25,Silver,Trailer,EASY TILT,2017,Trailer,4/03/2022,Central
+26,Silver,Trailer,IFOR WILLIAMS CT177,2018,Trailer,27/02/2022,Waikato
+27,Silver,Trailer,CONDOR,2018,Trailer,1/02/2022,Wellington
+28,Silver,Trailer,HOMEBUILT,2018,Trailer,1/11/2021,Bay of Plenty
+29,Silver,Trailer,PRO COMMERCIAL,2018,Trailer,21/12/2021,Auckland City
+30,Grey,Trailer,FACTORY,2018,Trailer,3/01/2022,Counties/Manukau
+31,Green,Homebuilt,TRAILER,1998,Trailer,21/10/2021,Canterbury
+32,Grey,Trailer,JFK JETSKI,2017,Boat Trailer,15/02/2022,Bay of Plenty
+33,Silver,Trailer,BST 2021D,2021,Trailer,5/01/2022,Auckland City
+34,Silver,Briford,10X5 TANDEM,2021,Trailer,5/04/2022,Canterbury
+35,Grey,Trailer,HOMEMADE,2018,Trailer,17/02/2022,Waikato
+36,Silver,Trailer,COMPASS-KH63,2018,Trailer,23/02/2022,Counties/Manukau
+37,Silver,Trailer,TRAYLA,2018,Trailer,17/01/2022,Wellington
+38,Silver,Trailer,PRESCOTT,2021,Trailer - Heavy,3/12/2021,Bay of Plenty
+39,Black,Homebuilt,TRAILER,2021,Trailer,27/12/2021,Wellington
+40,Silver,Trailer,TRAYLA,2021,Trailer,2/03/2022,Central
+41,Silver,Trailer,HOMEMADE,2002,Trailer,2/01/2022,Waitemata
+42,Silver,Trailer,BST58OR,2018,Boat Trailer,24/02/2022,Counties/Manukau
+43,Silver,Homebuilt,TRAILER,2018,Trailer,28/02/2022,Canterbury
+44,Silver,Trailer,DOMESTIC TRAILER,2014,Trailer,19/10/2021,Bay of Plenty
+45,Silver,Factory Built,TGB PALIO,2005,Moped,9/11/2021,Central
+46,Grey,Trailer,TANDEM,2004,Trailer - Heavy,5/11/2021,Counties/Manukau
+47,Silver,Custombuilt,TRAILER,2021,Trailer,2/03/2022,Auckland City
+48,Grey,Trailer,DOMESTIC,2021,Trailer,22/10/2021,Counties/Manukau
+49,Silver,Trailer,M J TANDEM AXLE,2021,Trailer,20/01/2022,Canterbury
+50,Silver,Briford,8X4 CAGE,2021,Trailer,7/12/2021,Auckland City
+51,White,Elddis,RIVIERA 482,2003,Caravan,13/10/2021,Canterbury
+52,Blue,Yamaha,XTZ660BG,1995,Roadbike,21/03/2022,Tasman
+53,Green,Kawasaki,NINJA,1999,Roadbike,15/02/2022,Bay of Plenty
+54,Silver,Trailer,PRESCOTT,2021,Trailer - Heavy,6/02/2022,Bay of Plenty
+55,Yellow,Trailer,BRIFORD,2000,Trailer - Heavy,5/03/2022,Counties/Manukau
+56,Silver,Trailer,ASD JETSKI,2021,Boat Trailer,21/02/2022,Auckland City
+57,Yellow,Trailer,BRIFORD 8X4'6COVERED,1997,Trailer,5/11/2021,Eastern
+58,Black,Trailer,HOMEBUILT,2021,Trailer,6/03/2022,Auckland City
+59,Red,Trailer,OLEARY,1983,Trailer,2/01/2022,Central
+60,Silver,Trailer,TRAILERWORLD 9X5 HSB,2021,Trailer,26/03/2022,Waitemata
+61,Silver,Trailer,SINGLE AXLE,2018,Trailer,10/10/2021,Auckland City
+62,Yellow,Honda,TODAY 50,2008,Moped,19/12/2021,Bay of Plenty
+63,Black,Trailer,IFOR WILLIAMS,2018,Trailer,6/01/2022,Bay of Plenty
+64,Silver,Trailer,PRESCOTT,2014,Trailer,24/03/2022,Bay of Plenty
+65,Silver,Trailer,SPORTLINE,2014,Boat Trailer,21/10/2021,Eastern
+66,Blue,Ford,FOCUS,2006,Hatchback,13/11/2021,Eastern
+67,Silver,Trailer,TILTING FLAT DECK,2014,Trailer - Heavy,8/11/2021,Eastern
+68,Silver,Trailer,PMTRAILER,2014,Trailer,24/01/2022,Canterbury
+69,Silver,Hoskings,BOAT TRAILER,2014,Boat Trailer,4/04/2022,Waikato
+70,Silver,Trailer,TRAYLA,2014,Trailer,24/02/2022,Central
+71,Silver,Trailer,ELITE,2014,Trailer,4/02/2022,Counties/Manukau
+72,Silver,Trailer,ELITE 7X4,2014,Trailer,14/01/2022,Canterbury
+73,White,Oxford,PIONEER,1969,Caravan,27/11/2021,Bay of Plenty
+74,White,BMW,323I,2007,Saloon,23/03/2022,Counties/Manukau
+75,Silver,Trailer,7 X 4 STD,2015,Trailer,5/01/2022,Waitemata
+76,Grey,Trailer,HOMEBUILT,2011,Trailer,2/04/2022,Waitemata
+77,Silver,Trailer,ENDURO,2015,Boat Trailer,6/01/2022,Bay of Plenty
+78,Silver,Trailer,TRAYLA,2015,Trailer,28/02/2022,Central
+79,Silver,Trailer,ELITE 8X5,2015,Trailer,14/01/2022,Canterbury
+80,Silver,Trailer,COMPASS D105,2015,Trailer,18/10/2021,Waitemata
+81,Silver,Trailer,DOMESTIC TRAILER,2015,Trailer,16/03/2022,Waikato
+82,White,Trailer,TANK,1998,Trailer - Heavy,18/01/2022,Bay of Plenty
+83,Silver,Audi,ALLROAD,2015,Stationwagon,3/04/2022,Wellington
+84,Silver,Trailer,ELITE 8X4,2015,Trailer,4/01/2022,Canterbury
+85,Silver,Vespa,PIAGGIO,2001,Roadbike,6/12/2021,Auckland City
+86,Silver,Trailer,HELMACK 8X5,2015,Trailer,19/01/2022,Canterbury
+87,Yellow,Trailer,LOCAL,1984,Trailer,21/03/2022,Auckland City
+88,Silver,Trailer,SINGLE AXLE,2015,Trailer,1/03/2022,Waikato
+89,Silver,Trailer,BOAT,2008,Boat Trailer,22/02/2022,Bay of Plenty
+90,Blue,Trailer,HOMEBUILT,1990,Trailer,20/01/2022,Bay of Plenty
+91,Silver,Trailer,PRESCOTT,2000,Trailer,8/03/2022,Bay of Plenty
+92,Silver,Homebuilt,TRAILER,1996,Trailer,24/03/2022,Auckland City
+93,Silver,Trailer,COMPASS-C85,2018,Trailer,18/03/2022,Auckland City
+94,Silver,Titan,DOMESTIC TRAILER,2018,Trailer,28/12/2021,Counties/Manukau
+95,Silver,Custombuilt,TANDEM,1985,Trailer,13/01/2022,Counties/Manukau
+96,Red,Honda,VT,2005,Roadbike,19/03/2022,Counties/Manukau
+97,Blue,Honda,CBR,2000,Roadbike,31/01/2022,Canterbury
+98,Black,Trailer,HOMEBUILT,2022,Trailer,14/02/2022,Counties/Manukau
+99,Grey,Trailer,JETSKI ACTION LAB,2021,Boat Trailer,30/12/2021,Waikato
+100,Silver,Trailer,HOMEBUILT,2000,Trailer,29/01/2022,Central
+101,Black,Homebuilt,TRAILER,2022,Trailer,12/03/2022,Bay of Plenty
+102,White,Trailer,MARTIN ENGINEERING,1998,Trailer,28/03/2022,Counties/Manukau
+103,Silver,Trailer,TUFF,2018,Trailer,22/11/2021,Bay of Plenty
+104,Brown,Trailer,LOCAL,1977,Trailer,3/12/2021,Bay of Plenty
+105,Silver,Trailer,8X4 TRAYLA,2018,Trailer - Heavy,1/02/2022,Central
+106,Blue,Trailer,HOMEMADE,1980,Trailer,20/03/2022,Tasman
+107,White,Trailer,NYMIC,2018,Trailer - Heavy,3/04/2022,Canterbury
+108,Silver,Trailer,TRAILER,2022,Trailer,9/02/2022,Auckland City
+109,Grey,Trailer,TANDEM,2019,Trailer,23/02/2022,Wellington
+110,Silver,Trailer,COMPASS-D116K,2022,Trailer,15/03/2022,Central
+111,Red,Harley Davidson,FXSTDI,2004,Roadbike,16/01/2022,Counties/Manukau
+112,Grey,Trailer,LOCAL,1967,Trailer,19/10/2021,Canterbury
+113,White,Caravan,SWIFT CHARISMA 230,2006,Caravan,27/02/2022,Waitemata
+114,Silver,Trailer,TANK,2018,Trailer,29/03/2022,Canterbury
+115,Red,Massey,FERGUSSON,2007,Tractor,23/01/2022,Waikato
+116,Silver,Trailer,BST85,2022,Trailer,15/03/2022,Wellington
+117,Black,Suzuki,LS650P,2003,Roadbike,3/12/2021,Northland
+118,Black,Trojan,JET SKI,2022,Boat Trailer,19/03/2022,Waitemata
+119,Silver,Trailer,VULCAN,2022,Trailer,4/03/2022,Counties/Manukau
+121,Grey,Homebuilt,EZ LOADER STABI CRAF,1989,Boat Trailer,12/10/2021,Canterbury
+122,Silver,Trailer,MCLAY,2017,Boat Trailer,19/03/2022,Eastern
+123,Silver,Trailer,ENSOL TANKER,2019,Trailer,28/02/2022,Central
+124,Red,Kawasaki,EX,2008,Roadbike,2/04/2022,Counties/Manukau
+125,Red,Moped,HYOSUNG SB49M,2008,Moped,29/01/2022,Counties/Manukau
+126,Grey,Trailer,BRIFORD,1996,Trailer,13/03/2022,Canterbury
+127,Silver,Trailer,REID,2000,Boat Trailer,3/02/2022,Auckland City
+128,White,Homebuilt,15X7,1994,Boat Trailer,1/01/2022,Canterbury
+129,Grey,Trailer,KEA,1998,Trailer,16/11/2021,Tasman
+130,Grey,Trailer,ROADCHIEF,2019,Trailer,20/01/2022,Northland
+131,Orange,KTM,EXC,2002,Roadbike,13/02/2022,Northland
+132,Silver,Trailer,JOBMATE,2019,Trailer,13/03/2022,Bay of Plenty
+133,Silver,Trailer,ENSOL TANKER,2022,Trailer,1/04/2022,Central
+134,Silver,Trailer,BRAKED TANDEM,2019,Trailer,17/12/2021,Bay of Plenty
+135,Grey,Trailer,HARENG,1980,Trailer,31/12/2021,Waikato
+136,Silver,Trailer,HOMEBUILT,2019,Trailer,13/03/2022,Southern
+137,Silver,Titan,DOMESTIC TRAILER,2019,Trailer,29/10/2021,Waitemata
+138,Green,Trailer,HOMEMADE,1962,Trailer,16/02/2022,Canterbury
+139,White,Trailer,SPACEE 2000,1997,Trailer,16/11/2021,Central
+140,Silver,Briford,8X4 TANDEM TIPPER,2018,Trailer,18/03/2022,Canterbury
+141,Silver,Factory Built,BRENT SMITH TRAILERS,2019,Trailer,30/12/2021,Wellington
+142,Silver,Trailer,TASMAN8X5TB,2019,Trailer,10/10/2021,Tasman
+143,Silver,Trailer,MAKZ,2019,Boat Trailer,14/12/2021,Wellington
+144,Silver,Pinto,ENCLOSED TRAILER,2019,Trailer,19/10/2021,Waitemata
+145,Silver,Trailer,ELITE 8X4,2019,Trailer,28/02/2022,Canterbury
+146,Silver,Trailer,TRANSPORTER,2019,Trailer - Heavy,27/12/2021,Eastern
+147,Grey,Trailer,DOMESTIC,2019,Trailer,9/03/2022,Waitemata
+148,Silver,Factory Built,DOMESTIC TRAILER,2015,Trailer,21/03/2022,Northland
+149,Silver,Briford,TRAILER 8X4,2015,Trailer - Heavy,8/12/2021,Auckland City
+150,White,Caravan,XPLORE 452,2008,Caravan,26/12/2021,Bay of Plenty
+151,Silver,Pinto,BRAKED TANDEM,2015,Trailer,18/02/2022,Waikato
+152,Silver,Trailer,HOBBS,2015,Trailer,12/11/2021,Eastern
+153,Silver,Trailer,WILPRO,2015,Trailer,22/11/2021,Bay of Plenty
+154,Silver,Briford,TRAILER,2015,Trailer - Heavy,24/01/2022,Counties/Manukau
+155,Silver,Briford,TRAILER,2015,Trailer - Heavy,8/03/2022,Auckland City
+156,Silver,Briford,OTHER COMMERCIAL TRA,2015,Trailer - Heavy,6/01/2022,Canterbury
+157,Silver,Trailer,SINGLE AXLE 7X4,2015,Trailer,19/02/2022,Canterbury
+158,White,Sprite,ALPINE  4T2A,2007,Caravan,29/01/2022,Wellington
+159,Silver,Trailer,FACTORY BUILT,2015,Trailer,10/01/2022,Central
+160,Blue,Nissan,SKYLINE,1989,Saloon,3/02/2022,Wellington
+161,Silver,Trailer,YAMAHA VXR,2015,Boat Trailer,10/11/2021,Canterbury
+162,Silver,Briford,TRAILER,2015,Trailer - Heavy,12/10/2021,Wellington
+163,Silver,Trailer,ROADLINE,2015,Trailer,30/10/2021,Northland
+164,Silver,Trailer,TRAYLA,2015,Trailer,13/01/2022,Wellington
+165,Silver,Briford,TRAILER,2015,Trailer - Heavy,31/12/2021,Waikato
+166,Silver,Briford,TRAILER,2015,Trailer - Heavy,8/12/2021,Counties/Manukau
+167,Red,Classic,HALF VISTA,1972,Caravan,16/03/2022,Bay of Plenty
+168,White,Trailer,CANTERBURY FABRICAT,2015,Trailer - Heavy,8/03/2022,Central
+169,Silver,Trailer,4.5M FLATDECK,2015,Trailer,28/01/2022,Waikato
+170,Orange,KTM,SFX,2020,Trail Bike,8/11/2021,Canterbury
+171,Silver,Trailer,ELITE 8X4,2016,Trailer,30/03/2022,Canterbury
+172,Silver,Trailer,ROADCHIEF 8X5,2019,Trailer,24/03/2022,Southern
+173,Silver,Trailer,LOCAL,1998,Trailer,25/12/2021,Central
+174,Silver,Trailer,BOAT,2012,Boat Trailer,22/12/2021,Waitemata
+175,Silver,Trailer,MM INDUSTRIES,2019,Trailer - Heavy,11/10/2021,Waitemata
+176,Silver,Kea,KC85E,2019,Trailer,1/04/2022,Bay of Plenty
+177,Silver,Kea,KC106AB,2019,Trailer,29/03/2022,Waikato
+178,Silver,Trailer,BOAT TRAILER,2019,Boat Trailer,12/02/2022,Counties/Manukau
+180,Silver,Kea,CAGE,2019,Trailer - Heavy,24/11/2021,Waikato
+181,Cream,Vespa,SPORTIQUE,1963,Moped,7/12/2021,Southern
+182,Silver,Briford,5X4,2019,Trailer,2/11/2021,Canterbury
+183,Silver,Trailer,CTDIG,2019,Trailer,22/11/2021,Bay of Plenty
+184,Yellow,Suzuki,DR-Z400,2005,Roadbike,12/10/2021,Canterbury
+185,Grey,Rhino,DOMESTIC TRAILER,2019,Trailer,28/10/2021,Northland
+186,Blue,Homebuilt,TRAILER,1990,Trailer,19/03/2022,Wellington
+187,Grey,Trailer,HOMEMADE,1981,Trailer,16/02/2022,Counties/Manukau
+188,Silver,Trailer,TRAYLA,2019,Trailer,4/02/2022,Central
+189,Silver,Bricon,357J,2019,Boat Trailer,16/12/2021,Waitemata
+190,Silver,Trailer,SMASH PALACE,2019,Trailer,7/03/2022,Canterbury
+191,White,Trailer,BRIFORD 5X4 SHUTTLE,1996,Trailer,31/10/2021,Canterbury
+192,Silver,Trailer,DIAMOND,2019,Trailer,19/01/2022,Central
+193,Silver,Kea,K844XA,2019,Trailer,2/04/2022,Waikato
+194,Silver,Trailer,TUFF,2019,Trailer,1/11/2021,Counties/Manukau
+195,White,Trailer,DMW,2006,Caravan,7/12/2021,Auckland City
+196,Silver,Briford,TRAILER,2015,Trailer - Heavy,8/03/2022,Waitemata
+197,Green,Trailer,HOMEMADE,1979,Trailer,2/12/2021,Canterbury
+198,Silver,Trailer,CABLE DRUM,2019,Trailer - Heavy,13/03/2022,Tasman
+199,Silver,Trailer,LOCAL,1999,Trailer,2/02/2022,Auckland City
+200,Silver,Trailer,KING,1998,Trailer,19/02/2022,Central
+201,Grey,Trailer,HOME BUILT,2001,Trailer,14/10/2021,Southern
+202,Silver,Trailer,IFOR WILLIAMS,2019,Trailer - Heavy,7/01/2022,Northland
+203,Orange,Trailer,LOCAL,1977,Trailer,25/10/2021,Bay of Plenty
+204,Red,Triumph,SPEEDTRIPLE,2004,Roadbike,10/02/2022,Central
+205,Grey,Trailer,DOLY,2019,Trailer,29/11/2021,Central
+206,Grey,Trailer,SINGLE AXLE,2019,Trailer,15/12/2021,Canterbury
+207,Black,Suzuki,GN250,2005,Roadbike,2/04/2022,Counties/Manukau
+208,White,Honda,XL250,1985,Roadbike,27/03/2022,Wellington
+209,Grey,Trailer,ROOFLINE,2019,Trailer,14/02/2022,Tasman
+210,Silver,Trailer,T D ENGINEERING,2019,Trailer,17/03/2022,Central
+211,Silver,Trailer,TRADETESTED 7 X 4,2015,Trailer,12/10/2021,Waitemata
+212,Silver,Trailer,VULCAN,2015,Trailer,1/11/2021,Waitemata
+213,Grey,Trailer,HOME MADE,2016,Trailer,1/03/2022,Wellington
+214,White,Anglo,CARAVAN,1976,Caravan,1/12/2021,Waitemata
+215,Silver,Reid,TRAILER,2015,Trailer - Heavy,11/10/2021,Waitemata
+216,Silver,Lochiel,DOMESTIC TRAILER,2015,Trailer,3/04/2022,Southern
+217,Silver,Briford,TRAILER 8X4,2008,Trailer,10/02/2022,Waitemata
+218,Blue,Trailer,SLOAN,1985,Trailer - Heavy,22/02/2022,Waikato
+219,Silver,Titan,7X4,2015,Trailer,23/12/2021,Counties/Manukau
+220,Grey,Trailer,HOMEBUILT,2002,Trailer,31/01/2022,Canterbury
+221,Silver,Trailer,DOMESTIC,2016,Trailer,22/11/2021,Northland
+222,Black,Trailer,JETSKI,2000,Boat Trailer,25/12/2021,Waikato
+223,Silver,Trailer,TANDEM,2016,Trailer,4/04/2022,Central
+224,White,Trailer,FURN,2016,Trailer - Heavy,17/01/2022,Bay of Plenty
+225,Silver,Lochiel,3X2 PLATFORM,2016,Trailer,27/02/2022,Southern
+226,Silver,Trailer,HOMEBUILT,2019,Trailer,26/01/2022,Central
+227,Silver,Trailer,GORILLA,2019,Trailer,25/01/2022,Canterbury
+228,Grey,Suzuki,UZ,2007,Roadbike,18/12/2021,Auckland City
+229,Grey,Homebuilt,TRAILER,1990,Trailer,10/02/2022,Canterbury
+230,Blue,Classic,DIPLOMAT,1979,Caravan,28/01/2022,Central
+231,Silver,Trailer,LOCAL,1976,Trailer - Heavy,22/01/2022,Central
+232,Red,Homebuilt,TRAILER,1987,Trailer,5/03/2022,Southern
+233,Silver,Titan,DOMESTIC TRAILER,2019,Trailer,3/03/2022,Waitemata
+234,Silver,Trailer,HOMEMADE,2019,Trailer,6/12/2021,Central
+235,Blue,Piaggio,MOTORCYCLE,1998,Moped,6/11/2021,Auckland City
+236,Silver,Suzuki,GSX250,2003,Roadbike,30/12/2021,Bay of Plenty
+237,Black,Suzuki,VL800,2009,Roadbike,31/03/2022,Waitemata
+238,Grey,Trailer,DOMESTIC TRAILER,2002,Trailer,29/12/2021,Counties/Manukau
+240,Silver,Briford,8X5 TANDEM,2019,Trailer,9/01/2022,Canterbury
+241,Silver,Trailer,KEA,2016,Trailer,14/10/2021,Auckland City
+242,Silver,Trailer,TANDEM,2019,Trailer,16/02/2022,Canterbury
+243,Black,Suzuki,VL800,2007,Roadbike,17/01/2022,Waitemata
+244,Silver,Homebuilt,O'LEARY 1 AXLE,1977,Trailer,2/03/2022,Central
+245,Silver,Trailer,DOMESTIC TRAILER,2001,Trailer,13/01/2022,Central
+246,Silver,Trailer,HOMEBUILT,2019,Boat Trailer,15/12/2021,Auckland City
+247,Silver,Trailer,BOAT,2019,Boat Trailer,31/01/2022,Northland
+248,Black,Trailer,HOMEBUILT,2019,Trailer,17/11/2021,Central
+249,Silver,Buffalo,8X5 TANDEM TRAILER,2019,Trailer,18/10/2021,Canterbury
+250,Silver,Trailer,BOAT,2019,Boat Trailer,4/03/2022,Waitemata
+251,Silver,Trailer,M J SINGLE AXLE,2019,Trailer,24/01/2022,Canterbury
+252,Black,Homebuilt,DOMESTIC TRAILER,2019,Trailer,6/01/2022,Counties/Manukau
+253,White,Trailer,HOMEBUILT,1940,Trailer,26/11/2021,Southern
+254,Silver,Factory Built,DOMESTIC TRAILER,2019,Trailer,21/03/2022,Wellington
+255,Silver,Trailer,ROADCHIEF,2019,Trailer - Heavy,24/10/2021,Bay of Plenty
+256,Silver,Trailer,K64SE,1997,Trailer,4/11/2021,Tasman
+257,Silver,Trailer,O'LEARY,1997,Trailer,4/04/2022,Central
+258,Silver,Trailer,LOCAL,2001,Boat Trailer,15/03/2022,Northland
+259,Silver,Trailer,CONCEPT,2017,Trailer,28/10/2021,Central
+260,Silver,Titan,DOMESTIC TRAILER,2019,Trailer,25/03/2022,Wellington
+261,Silver,Homebuilt,BOAT TRAILER,2019,Boat Trailer,29/10/2021,Counties/Manukau
+262,Grey,Yamaha,YZF-R6T,2005,Roadbike,17/02/2022,Waitemata
+263,Silver,Factory Built,TRAILUX TRAILER,2019,Trailer,31/03/2022,Wellington
+264,Silver,Trailer,ELITE 8X4,2016,Trailer,4/02/2022,Canterbury
+265,Silver,Trailer,UTILITY,2016,Trailer,22/03/2022,Waitemata
+266,Silver,Trailer,GT TRAILER,2016,Trailer - Heavy,29/10/2021,Canterbury
+267,White,Veteran,710,2016,Caravan,28/03/2022,Waikato
+268,Silver,Titan,8X5 SINGLE,2016,Trailer,23/03/2022,Waitemata
+269,Silver,Homebuilt,HOME BUILD,2016,Trailer,7/12/2021,Canterbury
+270,Blue,Homebuilt,TRAILER,2004,Trailer,20/03/2022,Canterbury
+271,Silver,Trailer,COMPASS C85,2016,Trailer,11/12/2021,Waikato
+272,Silver,Briford,TRAILER,2016,Trailer - Heavy,7/12/2021,Counties/Manukau
+273,Silver,Briford,TRAILER,2016,Trailer,14/01/2022,Canterbury
+274,Silver,Trailer,GT TRAILER,2016,Trailer - Heavy,29/10/2021,Auckland City
+275,White,Homebuilt,TRAILER,1960,Trailer,1/01/2022,Canterbury
+276,Grey,Trailer,MAINLINE TANKER,2013,Trailer - Heavy,8/11/2021,Waitemata
+277,Grey,Custombuilt,TBS,2016,Trailer - Heavy,12/10/2021,Waitemata
+278,Silver,Trailer,GOUGH ENGINEERING,2016,Trailer,25/03/2022,Waikato
+279,Silver,Briford,TRAILER,2016,Trailer - Heavy,8/11/2021,Counties/Manukau
+280,Silver,Trailer,COMPASS KH85T,2016,Trailer,23/02/2022,Counties/Manukau
+281,Grey,Briford,6X4,2016,Trailer,1/12/2021,Auckland City
+282,Silver,Trailer,ELITE 8X4,2016,Trailer,30/01/2022,Canterbury
+283,Blue,Mazda,LANTIS,1993,Saloon,14/02/2022,Waikato
+284,Silver,Trailer,TUFF,2016,Trailer,1/11/2021,Waitemata
+285,Silver,Briford,TRAILER,2016,Trailer - Heavy,15/11/2021,Counties/Manukau
+286,Silver,Briford,OTHER COMMERCIAL TRA,2016,Trailer - Heavy,8/03/2022,Bay of Plenty
+287,Silver,Briford,OTHER COMMERCIAL TRA,2016,Trailer - Heavy,17/01/2022,Waikato
+288,Silver,Trailer,AAA375 AAKRON,2016,Boat Trailer,29/01/2022,Counties/Manukau
+289,White,Caravan,LUNA DELTA,2007,Caravan,24/03/2022,Wellington
+290,Silver,Trailer,VULCAN,2016,Trailer,31/10/2021,Waitemata
+291,Silver,Trailer,TUFF,2016,Trailer,28/10/2021,Bay of Plenty
+292,Grey,Custombuilt,4,2016,Boat Trailer,22/10/2021,Canterbury
+293,Blue,Trailer,FLATDECK,2010,Trailer - Heavy,8/11/2021,Canterbury
+294,Silver,Briford,TRAILER 8X4,2016,Trailer,25/11/2021,Counties/Manukau
+295,Blue,Suzuki,GSX 750,2005,Roadbike,26/03/2022,Counties/Manukau
+296,Silver,Briford,8X4,2019,Trailer,16/02/2022,Canterbury
+297,Silver,Voyager,JII,1998,Boat Trailer,5/01/2022,Bay of Plenty
+298,Silver,Trailer,HOSKING,2000,Boat Trailer,26/12/2021,Auckland City
+299,Grey,Trailer,SPORTLINE 610 HT,2019,Boat Trailer,30/03/2022,Waikato
+300,Red,Aprilia,PEGASO,1998,Roadbike,5/04/2022,Southern
+301,Blue,Yamaha,CV50 JOG,2007,Moped,26/10/2021,Counties/Manukau
+304,Green,Trailer,HANSA CHIPPER,2019,Trailer,2/02/2022,Waikato
+305,Black,Suzuki,GSX600F,2007,Roadbike,2/03/2022,Northland
+306,Silver,Kea,KEA MX4,2020,Trailer,2/12/2021,Waitemata
+307,Grey,Briford,SINGLE AXLE,1985,Trailer,5/02/2022,Canterbury
+308,Orange,Suzuki,GSX,2008,Roadbike,13/03/2022,Waitemata
+309,Silver,Trailer,AFC JETSKI,2020,Boat Trailer,15/11/2021,Wellington
+310,Red,Domett,RSKF1F27.9,1977,Trailer,4/11/2021,Counties/Manukau
+311,Silver,Trailer,ASD JETSKI,2020,Boat Trailer,4/01/2022,Waitemata
+312,White,Bailey,PEGEANT S7 LOIRE,2009,Caravan,19/12/2021,Waitemata
+313,Grey,Trailer,JETSKI,2020,Boat Trailer,2/04/2022,Northland
+314,Red,Kawasaki,ZL 900,1986,Roadbike,30/11/2021,Northland
+315,Silver,Trailer,JETSKI,2020,Boat Trailer,30/03/2022,Waikato
+316,Silver,Trailer,BRI-INN,2020,Trailer,7/03/2022,Canterbury
+317,Grey,Homebuilt,LOCAL,1989,Trailer,22/03/2022,Waikato
+318,Grey,Trailer,JEYSKI ACTION LAB,2019,Boat Trailer,20/01/2022,Auckland City
+319,Silver,Custombuilt,AUCKLAND,2020,Boat Trailer,8/10/2021,Counties/Manukau
+320,Red,Hyosung,GV,2006,Roadbike,1/03/2022,Eastern
+321,Grey,Trailer,HOMEMADE,2020,Boat Trailer,10/01/2022,Waikato
+322,Silver,Briford,OTHER COMMERCIAL TRA,2016,Trailer - Heavy,7/12/2021,Auckland City
+323,White,Caravan,CHEVRON 1300,1977,Caravan,26/02/2022,Bay of Plenty
+324,Grey,Trailer,HOMEMADE,1981,Trailer,12/11/2021,Central
+325,Silver,Trailer,DOMESTIC,2020,Trailer,3/02/2022,Waitemata
+326,Silver,Trailer,DOMESTIC TRAILER,2020,Trailer,1/11/2021,Central
+327,Silver,Trailer,ELITE 8X4,2020,Trailer,14/12/2021,Canterbury
+328,Grey,Trailer,FUTURA,2020,Trailer,13/01/2022,Auckland City
+329,Silver,Trailer,DMW,2020,Boat Trailer,21/11/2021,Waitemata
+330,Silver,Trailer,TUFF,2020,Trailer,13/12/2021,Central
+331,White,Crusader,560,2010,Caravan,30/11/2021,Canterbury
+332,Red,Suzuki,GN125H,2008,Roadbike,20/01/2022,Tasman
+333,Grey,Trailer,DOMESTIC TRAILER,1996,Trailer,16/01/2022,Eastern
+334,Silver,Kea,K85S,2020,Trailer,2/04/2022,Bay of Plenty
+335,Black,Suzuki,GS,2005,Roadbike,6/03/2022,Waitemata
+336,Silver,Trailer,DOMESTIC TRAILER,2012,Trailer,19/10/2021,Central
+337,Grey,Trailer,8X5,2020,Trailer,10/10/2021,Tasman
+338,Silver,Pinto,11X5,2012,Trailer,20/12/2021,Canterbury
+339,Silver,Trailer,DOMESTIC,2016,Trailer,30/03/2022,Auckland City
+340,Silver,Factory Built,BRENT SMITH TRAILERS,2016,Trailer,5/04/2022,Wellington
+341,Silver,Titan,8X5,2016,Trailer,19/10/2021,Bay of Plenty
+342,Silver,Briford,8X4,2016,Trailer,8/11/2021,Canterbury
+343,Silver,Homebuilt,TRAILERWAY,2016,Trailer,10/03/2022,Counties/Manukau
+344,Silver,Reid,TRAILER,2016,Boat Trailer,14/12/2021,Waitemata
+345,White,Toyota,REGIUS,2001,Light Van,29/10/2021,Auckland City
+346,Silver,Briford,9X4 6 TANDEM,2016,Trailer,17/03/2022,Wellington
+347,Silver,Trailer,GT,2016,Trailer - Heavy,1/02/2022,Auckland City
+348,Silver,Trailer,GT TRAILER,2016,Trailer - Heavy,7/03/2022,Bay of Plenty
+349,Green,Trailer,DOMESTIC,2016,Trailer,9/01/2022,Northland
+350,Black,Trailer,HOMEMADE,2007,Trailer,7/10/2021,Waikato
+351,Silver,Trailer,DOMESTIC TRAILER,2016,Trailer,14/03/2022,Canterbury
+352,White,Caravan,BESSACARR CAMEO 625,2005,Caravan,31/10/2021,Waitemata
+353,Silver,Trailer,TRAILER PRO,2016,Trailer,5/04/2022,Canterbury
+354,Silver,Trailer,8X4,2016,Trailer,2/04/2022,Canterbury
+355,Silver,Briford,8X4 TANDEM,2016,Trailer,31/03/2022,Canterbury
+356,White,Swift,BARNWELL ARCHWAY,2002,Caravan,25/12/2021,Central
+357,Black,Trailer,HOMEMADE,2016,Trailer,4/03/2022,Wellington
+358,Silver,Titan,CAR CARRIER,2016,Trailer,3/11/2021,Bay of Plenty
+359,Grey,Trailer,LOCAL,1970,Trailer,29/12/2021,Canterbury
+360,Silver,Trailer,TRAYLA,2020,Trailer,17/02/2022,Central
+361,Silver,Trailer,COMPASS-FPT104,2020,Trailer,17/12/2021,Waikato
+362,Silver,Trailer,GIBBONS,2020,Trailer,2/03/2022,Waikato
+363,Black,Trailer,HOMEBUILT,2020,Trailer,3/03/2022,Counties/Manukau
+364,Grey,Trailer,P.S.,2020,Trailer - Heavy,7/01/2022,Central
+365,Blue,Suzuki,GSX650F,2009,Roadbike,19/01/2022,Waikato
+366,Blue,Trailer,FOXENG 1000,1998,Trailer,25/10/2021,Wellington
+367,Grey,Trailer,DOMESTIC,2020,Trailer,27/02/2022,Counties/Manukau
+368,Black,Trailer,TANDEM,2020,Trailer,24/03/2022,Bay of Plenty
+369,Black,Suzuki,AZ50 UDK6,2007,Moped,15/03/2022,Auckland City
+370,Black,Trailer,COOPER,2020,Trailer,19/10/2021,Canterbury
+371,Silver,Titan,DOMESTIC TRAILER,2020,Trailer,28/03/2022,Eastern
+372,Black,Harley Davidson,SOFTAIL,2006,Roadbike,9/03/2022,Counties/Manukau
+373,Silver,Homebuilt,BOX TRAILER,2020,Boat Trailer,3/02/2022,Northland
+374,White,Caravan,ZEPHYR,1980,Caravan,28/01/2022,Southern
+375,Silver,Trailer,ROADCHEF,2020,Trailer,8/03/2022,Waikato
+376,Silver,Trailer,TUFF,2020,Trailer,18/10/2021,Counties/Manukau
+377,Blue,Suzuki,SV1000S,2003,Roadbike,14/12/2021,Waitemata
+378,Red,Honda,CBR,1999,Roadbike,4/01/2022,Counties/Manukau
+379,Grey,Trailer,GIBBONS,1996,Boat Trailer,30/03/2022,Northland
+381,Grey,Trailer,DOMESTIC,2020,Trailer,13/12/2021,Counties/Manukau
+382,Black,Homebuilt,TRAILER,2020,Trailer,16/10/2021,Southern
+383,Black,Suzuki,GSX750F,2008,Roadbike,14/03/2022,Waitemata
+384,Blue,Suzuki,GSX,2009,Roadbike,31/12/2021,Canterbury
+385,Silver,Trailer,BOAT,2020,Trailer,26/11/2021,Auckland City
+386,Grey,Homebuilt,DOMESTIC TRAILER,1998,Trailer,12/01/2022,Waitemata
+387,Grey,Trailer,PRATTLEY,1974,Trailer,26/03/2022,Canterbury
+388,Silver,Trailer,BOAT,2020,Boat Trailer,13/01/2022,Auckland City
+389,Silver,Trailer,JOB MATE 7 X 4,2020,Trailer,1/01/2022,Eastern
+390,Grey,Trailer,TANDEM,2020,Trailer,9/01/2022,Canterbury
+391,Yellow,Atlas,XAS48XD ROAD COMPRES,2020,Trailer,6/01/2022,Canterbury
+392,Black,Honda,NVS50,2005,Moped,17/12/2021,Canterbury
+393,Black,Harley Davidson,XL,2006,Roadbike,13/01/2022,Auckland City
+394,Silver,Homebuilt,TRAILER,2020,Trailer,24/03/2022,Central
+395,Grey,Trailer,HOMEMADE,1980,Trailer,22/02/2022,Central
+396,Silver,Trailer,MUDGWAY,2000,Boat Trailer,18/03/2022,Southern
+397,White,Trailer,TPM,2020,Trailer - Heavy,13/11/2021,Canterbury
+398,Silver,Trailer,PRO AUTO,2020,Trailer,7/03/2022,Canterbury
+399,Blue,Suzuki,UZ,2007,Roadbike,14/01/2022,Auckland City
+400,Yellow,Hyosung,GT,2007,Roadbike,9/10/2021,Central
+401,Orange,Suzuki,UZ50,2009,Moped,10/03/2022,Counties/Manukau
+402,Silver,Trailer,FOXENG 850,2016,Trailer,3/02/2022,Bay of Plenty
+403,Silver,Trailer,8X4,2016,Trailer,14/11/2021,Southern
+404,Silver,Trailer,ROAD CHIEF TR74CS/1,2016,Trailer,19/12/2021,Wellington
+405,Grey,Trailer,REID,1975,Boat Trailer,6/11/2021,Tasman
+406,Silver,Trailer,TANDEM,2011,Trailer,21/12/2021,Northland
+407,Silver,Factory Built,BRENT SMITH TRAILERS,2017,Trailer,18/03/2022,Counties/Manukau
+408,Black,Trailer,CAR,2017,Trailer,16/03/2022,Southern
+409,Grey,Trailer,LOCAL,1960,Trailer - Heavy,21/01/2022,Canterbury
+410,Silver,Trailer,TRAILER PRO,2017,Trailer,14/02/2022,Waitemata
+411,Silver,Factory Built,TRAILUX TRAILER,2017,Trailer,6/12/2021,Wellington
+412,Silver,Titan,10 X 5,2017,Trailer,21/12/2021,Wellington
+413,Silver,Trailer,HAULER 7X4 TIPPING,2017,Trailer,5/12/2021,Central
+414,Silver,Trailer,RB,2017,Boat Trailer,27/01/2022,Central
+415,Silver,Trailer,EXCAVATOR TRAILER,2017,Trailer - Heavy,31/12/2021,Auckland City
+416,Silver,Trailer,FOOD CART,2017,Trailer,13/12/2021,Tasman
+417,Silver,Trailer,VULCAN,2017,Trailer,18/11/2021,Waitemata
+418,Black,Homebuilt,TRAILER,2017,Trailer,14/01/2022,Bay of Plenty
+419,White,Caravan,COMPASS OMEGA 534,2002,Caravan,1/11/2021,Northland
+420,Silver,Trailer,GT TRAILER,2017,Trailer - Heavy,23/02/2022,Counties/Manukau
+421,Silver,Trailer,ELITE 7X4,2017,Trailer,22/02/2022,Canterbury
+422,Silver,Trailer,VOYAGER A16M,2002,Boat Trailer,8/01/2022,Bay of Plenty
+423,Silver,Trailer,TUFF,2020,Trailer,25/01/2022,Central
+424,Silver,Briford,8X4,2020,Trailer,14/10/2021,Canterbury
+425,Green,Homebuilt,HOMEMADE,1987,Trailer - Heavy,16/01/2022,Canterbury
+426,Silver,Trailer,WAVERUNNER,2020,Boat Trailer,13/02/2022,Canterbury
+427,Silver,Trailer,TUFF,2020,Trailer,31/12/2021,Wellington
+428,Silver,Trailer,TUFF,2020,Trailer,27/10/2021,Bay of Plenty
+429,Silver,Trailer,TRAYLA,2020,Trailer,28/03/2022,Waikato
+430,Silver,Kea,KC95,2020,Trailer,21/10/2021,Waikato
+431,White,Caravan,LUNAR,2009,Caravan,24/03/2022,Canterbury
+432,White,BMW,730I,2014,Saloon,24/03/2022,Auckland City
+433,Grey,Trailer,BOAT TRAILER,1980,Boat Trailer,9/11/2021,Bay of Plenty
+434,White,Caravan,SWIFT CHALLENGER 570,2010,Caravan,28/12/2021,Canterbury
+435,Yellow,Trailer,OLEARY,1979,Trailer,17/03/2022,Wellington
+436,White,Sterling,ECCLES,2005,Caravan,9/11/2021,Counties/Manukau
+438,Silver,Yamaha,FZS,2004,Roadbike,19/02/2022,Canterbury
+439,Yellow,Trailer,DOMESTIC TRAILER,1981,Trailer,1/04/2022,Waitemata
+440,Black,Victory,8-BALL,2007,Roadbike,31/03/2022,Tasman
+441,Gold,Moped,FACTORY BUILT,2008,Moped,25/11/2021,Wellington
+442,Silver,Briford,7X4,1999,Trailer,21/02/2022,Canterbury
+443,Red,Trailer,LOCAL,1967,Trailer,11/01/2022,Waikato
+444,Silver,Trike,ELITE 8X4,2020,Trailer,24/10/2021,Tasman
+445,Silver,Trailer,DOMESTIC TRAILER,2020,Trailer,14/10/2021,Bay of Plenty
+446,Silver,Trailer,D-MAX FLATDECK,2020,Trailer,29/01/2022,Wellington
+447,Silver,Honda,MAGNA,2003,Roadbike,10/03/2022,Auckland City
+448,Silver,Kea,KC846,2000,Trailer,25/03/2022,Waikato
+450,Blue,Trailer,LOCAL,1972,Trailer,7/12/2021,Central
+451,White,Homebuilt,TANDEM TRAILER,1992,Trailer,8/02/2022,Canterbury
+452,Silver,Trailer,HOMEBUILT,2020,Trailer,25/11/2021,Northland
+453,Silver,Trailer,ELITE,2020,Trailer,9/03/2022,Canterbury
+454,Grey,Piaggio,VESPA,1997,Roadbike,10/03/2022,Auckland City
+455,Silver,Trailer,CRUISER,2020,Boat Trailer,15/12/2021,Counties/Manukau
+456,Silver,Lochiel,TRAILER,2020,Trailer,30/11/2021,Canterbury
+457,Orange,Trailer,CUSTOMS BUIL,1982,Trailer,28/01/2022,Northland
+458,Silver,Briford,8X5,2020,Trailer,6/12/2021,Southern
+459,Silver,Briford,8X4 TANDEM,2015,Trailer,27/11/2021,Canterbury
+460,Red,Suzuki,SJ125,2004,Roadbike,19/03/2022,Canterbury
+461,Black,Yamaha,JOG,1999,Moped,28/03/2022,Central
+462,Grey,Trailer,GT PRODUCTS,1998,Trailer - Heavy,15/11/2021,Waitemata
+463,White,Caravan,CI MUNRO,1977,Caravan,21/03/2022,Auckland City
+464,Silver,Trailer,TRAYLA,2020,Trailer,25/11/2021,Bay of Plenty
+465,Silver,Trailer,ASD JET SKI,2020,Boat Trailer,11/12/2021,Bay of Plenty
+466,Red,Yamaha,XV250SL,2001,Roadbike,15/11/2021,Auckland City
+467,Silver,Trailer,LIGHT,1999,Trailer,31/03/2022,Bay of Plenty
+468,Silver,Trailer,MAKZ,2020,Boat Trailer,18/01/2022,Wellington
+469,Silver,Trailer,ENSOL TANKER,2020,Trailer,3/03/2022,Wellington
+470,Silver,Trailer,HOMEMADE,2021,Trailer,15/11/2021,Southern
+471,Black,Homebuilt,TRAILER,2021,Trailer,11/10/2021,Northland
+472,Grey,Trailer,DOMESTIC,2019,Trailer,23/02/2022,Waikato
+473,Black,Aprilia,SXV,2008,Roadbike,30/10/2021,Canterbury
+474,Silver,Honda,CB,2009,Roadbike,6/02/2022,Canterbury
+475,White,Jayco,STARCRAFT,2017,Trailer - Heavy,4/01/2022,Counties/Manukau
+476,Silver,Trailer,BES1500,2017,Trailer,23/12/2021,Auckland City
+477,Silver,Trailer,PL27084 ACCESS,2017,Trailer,11/11/2021,Counties/Manukau
+478,Silver,Briford,TRAILER 8X4,2017,Trailer,18/01/2022,Waikato
+479,Silver,Trailer,TRANSPORT MGE,2017,Trailer,28/02/2022,Waikato
+480,Silver,Trailer,TUI,2017,Trailer,31/12/2021,Central
+481,Silver,Briford,8X4,2017,Trailer,5/04/2022,Southern
+482,White,Homebuilt,TRAILER,1976,Trailer,21/11/2021,Bay of Plenty
+483,Silver,Trailer,VULCAN C8X5T,2017,Trailer,17/10/2021,Waitemata
+484,Black,Trailer,TOP GEAR,2017,Trailer,27/10/2021,Auckland City
+485,Silver,Kea,K844T,2017,Trailer,28/01/2022,Canterbury
+486,Silver,Trailer,EASY TILI,2017,Trailer,18/02/2022,Waikato
+487,Silver,Trailer,HOMEBUILT,2017,Boat Trailer,20/03/2022,Canterbury
+488,Silver,Trailer,BUNNINGS,2008,Trailer,24/02/2022,Central
+489,Silver,Yamaha,RED RUNNER H/B,2017,Boat Trailer,20/01/2022,Waitemata
+490,Silver,Trailer,TRAILER PRO,2017,Trailer,21/10/2021,Waitemata
+491,Silver,Trailer,HOMEBUILT,2017,Trailer,6/11/2021,Canterbury
+492,Silver,Kea,844X,2008,Trailer,9/03/2022,Central
+493,Silver,Trailer,IFOR WILLIAMS,2017,Trailer,25/02/2022,Auckland City
+494,Silver,Trailer,DOMESTIC TRAILER,2009,Trailer,9/10/2021,Waikato
+495,Silver,Trailer,TUFF,2020,Trailer,6/12/2021,Bay of Plenty
+496,Grey,Trailer,WAVERUNNER,2020,Boat Trailer,24/10/2021,Canterbury
+497,Silver,Mono - Way,TRAILER,2008,Trailer,4/01/2022,Waitemata
+498,White,Honda,CX,1985,Roadbike,16/02/2022,Auckland City
+499,Blue,Suzuki,GN250,2005,Roadbike,28/01/2022,Auckland City
+500,White,Trailer,BOAT TRAILER,1990,Boat Trailer,18/01/2022,Auckland City
+501,White,Trailer,BOX,2021,Trailer,10/03/2022,Central
+502,Grey,Trailer,CAR TRANSPORTER,2021,Trailer,24/11/2021,Waitemata
+503,Silver,Moped,JET EURO X,2005,Moped,24/01/2022,Wellington
+504,Silver,Trailer,ELITE 8X4,2021,Trailer,3/12/2021,Canterbury
+505,Silver,Trailer,ROADCHIEF,2021,Trailer,28/01/2022,Waitemata
+506,Silver,Kea,KC95,2021,Trailer,17/12/2021,Canterbury
+507,Silver,Trailer,BRENT SMITH TB1,2021,Trailer - Heavy,18/01/2022,Waitemata
